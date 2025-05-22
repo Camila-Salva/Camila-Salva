@@ -1,8 +1,8 @@
 Hola 👋 Mi nombre es Camila Salva 
 Aprendiendo, fallando, mejorando. 🚀
-Código hoy, errores mañana, progreso siempre.
+💻🕓Código hoy,🐞 errores mañana, progreso siempre⚡📈.
 ⌨️ + 🧠 = 💡
-#DesarrolladorEnProceso 
+👩‍💻🔄#DesarrolladorEnProceso 
 🌍Estoy basado en Peru
 
 <a href="https://www.github.com/Camila Salva" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Camila Salva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
